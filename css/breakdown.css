@@ -1,0 +1,162 @@
+@media (max-width: 750px) {
+
+ 	.My-avatar{
+ 		margin: 18px 70%;
+ 	}
+
+
+}
+
+@media (max-width: 500px) {
+
+ 	.My-avatar{
+ 		margin: 18px 60%;
+ 	}
+
+
+}
+
+@media (max-width: 1333px) {
+
+ 	.top-nav-middle{
+ 		padding-left: 3%;
+ 	}
+
+
+}
+
+@media (max-width: 1113px) {
+
+ 	.top-nav-middle{
+ 		padding-left: 0%;
+ 	}
+
+ 	.top-nav-middle li{
+ 		margin-right: 10%;
+ 	}
+
+}
+
+@media (max-width: 635px) {
+
+ 	.top-nav-front{
+ 		width: 70.333333%;
+ 	}
+
+}
+
+
+@media (max-width: 635px) {
+
+ 	.top-nav-middle{
+ 		display: none;
+ 	}
+
+}
+
+
+@media (max-width: 920px) {
+
+ 	.My-avatar{
+ 		margin: 18px 30%;
+ 	}
+}
+
+@media (max-width: 687px) {
+	.bottom-nav {
+    display: none;
+}
+}
+
+@media (max-width: 993px) {
+	.bottom-nav li a{
+		padding: 30px 10px;
+	}
+}
+
+
+@media (max-width: 748px) {
+	.bottom-nav li a{
+		padding: 30px 6px;
+	}
+}
+
+
+
+@media (max-width: 991px) {
+	.box-container {
+    margin-left: 25%;
+}
+.last-card-container{
+	margin-left: 25%;
+	}
+}
+
+@media (max-width: 525px) {
+	.box-container {
+    margin-left: -4%;
+}
+.last-card-container{
+	margin-left: 0%;
+	margin-right: 18%;
+	}
+}
+
+
+@media (max-width: 700px) {
+	.recent-left{
+		width: 100%;
+		border-right:none; 
+	}
+}
+
+@media (max-width: 700px) {
+	.recent-right{
+		display: none; 
+	}
+}
+
+
+@media (max-width: 484px) {
+	.review-date {
+	position: absolute;
+    top: 50px;
+    left: 40px;
+	}
+}
+
+
+
+@media (max-width: 1199px) {
+	.suggestion-user-name{
+		font-size: 15px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
